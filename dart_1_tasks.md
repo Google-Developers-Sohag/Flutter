@@ -2,7 +2,7 @@ Hello we have multible stages of tasks here
 
 ### Easy Tasks
 
-1- make a Map with String keys and dynamic values in each on the key will be the Data types Names that we take in course and the value will be the example of this data type.
+1- make a Map with String keys and dynamic values in each one the key will be the Data type Name that we take in course and the value will be the example of this data type.
 
 ex:- `{"double" : 3.147}`
 
@@ -10,14 +10,14 @@ ex:- `{"double" : 3.147}`
 
 3- compare by 1 and '1' in if else statement
 
-4- do the example of dynamic and object that tells the difference between them 
+4- do the example of dynamic and object data types that tells the difference between them
 
-5- print from 1 to 100 by loop _note: 100 is included_
+5- print from 1 to 100 by for loop once and while loop in another, _note: 100 is included_
 <hr/>
 
 ### Medium Task
 
-1- add Subtract functional button _so called horizontal_rule_ in this Flutter code
+1- add a Subtract functional button _so called horizontal_rule_ in this Flutter code
 [task(1).txt](https://github.com/Google-Developers-Sohag/Flutter-Tasks/files/8037828/task.1.txt)
 
 to get the result like that :
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/50797015/153331865-609b04c7-bc39-43c0-
   
   ___Note: only the user who can dedict the size of the list___
 
-  lastly the mapOfSummation will make the input integer as the String key of map and the value is result of summation
+  lastly the mapOfSummation will make the input integer as the String key of map and the value is the result of summation
   
   <hr/>
   Done.
