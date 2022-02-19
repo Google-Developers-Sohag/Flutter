@@ -96,6 +96,24 @@ It should produce the following output −
 
 The engine is : E1001 
 Non-parameterized constructor invoked
+
+OR and the most preferable way:
+```dart
+void main() {           
+   Car c1 = new Car(typeName: "Tesla");                                        
+   c1.display();
+}           
+class Car {
+   final String typeName;
+   Car({required String this.typeName});
+   
+   void display(){
+      print("$typeName");
+   }                               
+}
+```
+**OutPut** : `Tesla`
+
  
 ### The this Keyword
 
