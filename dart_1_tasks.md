@@ -43,3 +43,48 @@ https://user-images.githubusercontent.com/50797015/153331865-609b04c7-bc39-43c0-
   
   <hr/>
   Done.
+
+<hr/>
+
+My take for Hard Task
+```dart
+import 'dart:io';
+
+void main() {
+  print(mapOfSummition());
+}
+
+List<int> inputHandler() {
+    bool notDone = true;
+    List<int> ranges = [];
+    while (notDone) {
+      String? input = stdin.readLineSync();
+      try {
+        int range = int.parse(input!);
+        ranges.add(range);
+      } catch (e) {
+        notDone = false;
+        print("end of list");
+      }
+    }
+    return ranges;
+  }
+
+  int summationOfNums(int range) {
+    int commulative = 0;
+    for (int i = 0; i <= range; i++) {
+      commulative += i;
+    }
+    return commulative;
+  }
+
+  Map<String, int> mapOfSummition() {
+    Map<String, int> results = {};
+    List<int> ranges = inputHandler();
+    int l = ranges.length;
+    for (int i = 0; i < l; i++) {
+      results["Sum of ${ranges[i]}"] = summationOfNums(ranges[i]);
+    }
+    return results;
+  }
+```
