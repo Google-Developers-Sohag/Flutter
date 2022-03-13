@@ -1,0 +1,10 @@
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro
+
+
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/ephemeral-vs-app
+
+
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/ephemeral-vs-app
+
+
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple
