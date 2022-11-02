@@ -1,4 +1,93 @@
-<h1>All needed information you need to know about Flutter</h1>
+<h1>Flutter Frequently Questions and Answers</h1>
+
+## *Questions*
+[1. What is Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#1-what-is-flutter)
+
+[2. What are the advantages of using Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#2-what-are-the-advantages-of-using-flutter)
+
+[3. What is the Flutter architecture?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#3-what-is-the-flutter-architecture)
+
+[4. What build modes are available in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#4-what-build-modes-are-available-in-flutter)
+
+[5. What is the Dart programming language?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#5-what-is-the-dart-programming-language)
+
+[6. Is Dart language necessary for Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[7. What are widgets in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#7-what-are-widgets-in-flutter)
+
+[8. What are the most useful editors for Flutter apps?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#8-what-are-the-most-useful-editors-for-flutter-apps)
+
+[9. What are packages and plugins in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[10. Are there any popular apps which make use of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[11. In What technology is Flutter built?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[12.What is the App state?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[13. What do you mean by keys in flutter? and its uses](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[14. What is Flutter Inspector?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[15. Different types of streams in Dart](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[16. What is the difference between SizedBox and Container?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[17. What is Fat Arrow Notation in Dart and when do you use it?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[18. How many types of widgets are there in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[19. When should you use WidgetsBindingObserver?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[20. What is Dart and why does Flutter use it?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+
+[21. How to define a generic extension in Dart?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[22. How do you create a factory?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[23. List the responsibilities of FlutterActivity?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[24. What is Build context?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[25. How will you declare async function as a variable in Dart?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[26. Why do we need Mixins?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[27. Explain Ticker in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[28. Explain Stream in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[29. Explain Null aware pointers?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[30. How can you run code in debug mode only?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[31. What is Provider?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[32. What are the limitations of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[33. Explain state management.](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[34. What are the similarities and differences between Future and Stream?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[35. What is tree shaking in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[36. Differentiate setState and Provider?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[37. Which one is best between React Native and Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[38. Explain Tween Animation?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[39. Explain the Stateful Widget Lifecycle?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[40. What is a Spacer widget?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[41. What is a Navigator and what are Routes in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[42. What are GlobalKeys?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+[43.What is an AspectRatio widget used for?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+
+<hr width="50%"/>
 
 <h2>1. What is Flutter?</h2>
 
@@ -325,7 +414,7 @@ A Provider allows to not only expose a value, but also create/listen/dispose it.
 * Issues with iOS: Flutter is developed by Google. This is why developers are worried about its implementation for iOS.
 * Large File Sizes: One big loophole that ois hard to ignore is the large file size of apps developed in Flutter. In some cases these file sizes could be a significant issue.
 
-<h2>32. Explain state management.</h2>
+<h2>33. Explain state management.</h2>
 
 Managing state in an application is one of the most important and necessary process in the life cycle of an application.
 
@@ -334,7 +423,7 @@ State management can be divided into two categories based on the duration the pa
 1. Ephemeral − Last for a few seconds like the current state of an animation or a single page like current rating of a product. Flutter supports this through StatefulWidget.
 2. app state − Lasts for entire application like logged in user details, cart information, etc., Flutter supports this through scoped_model.
 
-<h2>33. What are the similarities and differences between Future and Stream?</h2>
+<h2>34. What are the similarities and differences between Future and Stream?</h2>
 
 __Similarities__
 
@@ -346,13 +435,13 @@ __Differences__
 1. A stream may be a mixture of Futures.
 2. Future has only one response yet Stream can have any number of Responses.
 
-<h2>33. What is tree shaking in Flutter?</h2>
+<h2>35. What is tree shaking in Flutter?</h2>
 
 Tree Shaking is the optimization technique for removing the unutilized module in the bundle in the build process. It is also the code elimination technique used for optimizing our application.
 
 (for flutter web) When compiling a Flutter web application, the JavaScript bundle is generated by the dart2js compiler. A release build has the highest level of optimization, which includes tree shaking your code. Tree shaking is the process of eliminating dead code, by only including code that is guaranteed to be executed. This means that you do not need to worry about the size of your app’s included libraries because unused classes or functions are excluded from the compiled JavaScript bundle
 
-<h2>34. Differentiate setState and Provider?</h2>
+<h2>36. Differentiate setState and Provider?</h2>
 
 __setState()__
 
@@ -362,7 +451,7 @@ __Provider__
 
 In the provider pattern, we define everything in a separate class indicating that the UI presentation is defined in the different logics that specify in different thus code appears high quality and clean. Moreover, we don’t need to transmit the state from one screen to another through the constructor.
 
-<h2>35. Which one is best between React Native and Flutter?</h2>
+<h2>37. Which one is best between React Native and Flutter?</h2>
 
 Flutter and React Native both are utilized for developing the native hybrid app through a single codebase. These applications can be executed on Android and iOS platforms. 
 
@@ -370,11 +459,11 @@ Flutter and React Native both are utilized for developing the native hybrid app 
 2. Flutter utilizes Dart programming language for creating the applications and React Native utilizes Javascript for developing the applications.
 3. From the Developer’s perspective, it is very complex to select them. Therefore, it is very hard to select the winner between React Native and Flutter.
 
-<h2>36. Explain Tween Animation?</h2>
+<h2>38. Explain Tween Animation?</h2>
 
 Tween Animation is a short form of in-betweening. In Tween Animation, we must define the starting and endpoint of the automation. It indicates that the animation starts with the starting value, after that, it goes through a series of intermediary values, and lastly arrives at the end value. It also offers the curve and timeline that defines the speed and time of the variation.  
 
-<h2>37. Explain the Stateful Widget Lifecycle?</h2>
+<h2>39. Explain the Stateful Widget Lifecycle?</h2>
 
 The lifecycle has the following simplified steps: 
 * <a href="https://flutterbyexample.com/lesson/stateful-widget-lifecycle#1-createstate">createState()</a>
@@ -388,18 +477,18 @@ The lifecycle has the following simplified steps:
 * [dispose()](https://flutterbyexample.com/lesson/stateful-widget-lifecycle#9-dispose)
 * [mounted == false](https://flutterbyexample.com/lesson/stateful-widget-lifecycle#10-mounted-is-false)
 
-<h2>38. What is a Spacer widget?</h2>
+<h2>40. What is a Spacer widget?</h2>
 
 Spacer manages the empty space between the widgets with flex container. Evenly with the Row and Column MainAxis alignment we can manage the space as well
 
-<h2>39. What is a Navigator and what are Routes in Flutter?</h2>
+<h2>40. What is a Navigator and what are Routes in Flutter?</h2>
 
 Navigation and routing are some of the core concepts of all mobile application, which allows the user to move between different pages. We know that every mobile application contains several screens for displaying different types of information. For example, an app can have a screen that contains various products. When the user taps on that product, immediately it will display detailed information about that product
 
-<h2>40. What are GlobalKeys?</h2>
+<h2>41. What are GlobalKeys?</h2>
 
 GlobalKeys have two uses: they allow widgets to change parents anywhere in your app without losing state, or they can be used to access information about another widget in a completely different part of the widget tree. An example of the first scenario might if you wanted to show the same widget on two different screens, but holding all the same state, you’d want to use a GlobalKey
 
-<h2>41.What is an AspectRatio widget used for?</h2>
+<h2>42.What is an AspectRatio widget used for?</h2>
 
 AspectRatio Widget tries to find the best size to maintain aspect ration while respecting it’s layout constraints. The AspectRatio Widget can be used to adjust the aspect ratio of widgets in your app
