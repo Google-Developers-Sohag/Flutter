@@ -1,17 +1,17 @@
 <h1>Flutter Frequently Questions and Answers</h1>
 
 ## *Questions*
-[1. What is Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#1-what-is-flutter)
+[1. What is Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#1-what-is-flutter)
 
-[2. What are the advantages of using Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#2-what-are-the-advantages-of-using-flutter)
+[2. What are the advantages of using Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#2-what-are-the-advantages-of-using-flutter)
 
-[3. What is the Flutter architecture?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#3-what-is-the-flutter-architecture)
+[3. What is the Flutter architecture?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#3-what-is-the-flutter-architecture)
 
-[4. What build modes are available in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#4-what-build-modes-are-available-in-flutter)
+[4. What build modes are available in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#4-what-build-modes-are-available-in-flutter)
 
-[5. What is the Dart programming language?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#5-what-is-the-dart-programming-language)
+[5. What is the Dart programming language?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#5-what-is-the-dart-programming-language)
 
-[6. Is Dart language necessary for Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[6. Is Dart language necessary for Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
 [7. What are widgets in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#7-what-are-widgets-in-flutter)
 
@@ -41,51 +41,51 @@
 
 [20. What is Dart and why does Flutter use it?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
 
-[21. How to define a generic extension in Dart?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[21. How to define a generic extension in Dart?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[22. How do you create a factory?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[22. How do you create a factory?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[23. List the responsibilities of FlutterActivity?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[23. List the responsibilities of FlutterActivity?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[24. What is Build context?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[24. What is Build context?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[25. How will you declare async function as a variable in Dart?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[25. How will you declare async function as a variable in Dart?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[26. Why do we need Mixins?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[26. Why do we need Mixins?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[27. Explain Ticker in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[27. Explain Ticker in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[28. Explain Stream in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[28. Explain Stream in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[29. Explain Null aware pointers?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[29. Explain Null aware pointers?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[30. How can you run code in debug mode only?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[30. How can you run code in debug mode only?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[31. What is Provider?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[31. What is Provider?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[32. What are the limitations of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[32. What are the limitations of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[33. Explain state management.](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[33. Explain state management.](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[34. What are the similarities and differences between Future and Stream?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[34. What are the similarities and differences between Future and Stream?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[35. What is tree shaking in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[35. What is tree shaking in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[36. Differentiate setState and Provider?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[36. Differentiate setState and Provider?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[37. Which one is best between React Native and Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[37. Which one is best between React Native and Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[38. Explain Tween Animation?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[38. Explain Tween Animation?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[39. Explain the Stateful Widget Lifecycle?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[39. Explain the Stateful Widget Lifecycle?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[40. What is a Spacer widget?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[40. What is a Spacer widget?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[41. What is a Navigator and what are Routes in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[41. What is a Navigator and what are Routes in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[42. What are GlobalKeys?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[42. What are GlobalKeys?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
-[43.What is an AspectRatio widget used for?](https://github.com/Google-Developers-Sohag/Flutter/edit/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
+[43.What is an AspectRatio widget used for?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#6-is-dart-language-necessary-for-flutter)
 
 <hr width="50%"/>
 
