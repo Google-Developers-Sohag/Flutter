@@ -481,14 +481,14 @@ The lifecycle has the following simplified steps:
 
 Spacer manages the empty space between the widgets with flex container. Evenly with the Row and Column MainAxis alignment we can manage the space as well
 
-<h2>40. What is a Navigator and what are Routes in Flutter?</h2>
+<h2>41. What is a Navigator and what are Routes in Flutter?</h2>
 
 Navigation and routing are some of the core concepts of all mobile application, which allows the user to move between different pages. We know that every mobile application contains several screens for displaying different types of information. For example, an app can have a screen that contains various products. When the user taps on that product, immediately it will display detailed information about that product
 
-<h2>41. What are GlobalKeys?</h2>
+<h2>42. What are GlobalKeys?</h2>
 
 GlobalKeys have two uses: they allow widgets to change parents anywhere in your app without losing state, or they can be used to access information about another widget in a completely different part of the widget tree. An example of the first scenario might if you wanted to show the same widget on two different screens, but holding all the same state, you’d want to use a GlobalKey
 
-<h2>42.What is an AspectRatio widget used for?</h2>
+<h2>43.What is an AspectRatio widget used for?</h2>
 
 AspectRatio Widget tries to find the best size to maintain aspect ration while respecting it’s layout constraints. The AspectRatio Widget can be used to adjust the aspect ratio of widgets in your app
