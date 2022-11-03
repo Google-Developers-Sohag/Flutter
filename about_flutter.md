@@ -19,7 +19,7 @@
 
 [9. What are packages and plugins in Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
 
-[10. Are there any popular apps which make use of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
+[10. Are there any popular apps which make use of Flutter?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#10-are-there-any-popular-apps-which-make-use-of-flutter)
 
 [11. In What technology is Flutter built?](https://github.com/Google-Developers-Sohag/Flutter/blob/main/about_flutter.md#9-what-are-packages-and-plugins-in-flutter)
 
